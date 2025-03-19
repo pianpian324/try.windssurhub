@@ -64,3 +64,5 @@ python app.py
   - 技术路径：使用 Flask-RESTful 构建 RESTful API，添加 JWT 认证
 - [ ] 添加数据分析仪表盘
   - 技术路径：使用 SQLAlchemy 进行数据分析，集成 AdminLTE 仪表盘模板
+
+  煮好
